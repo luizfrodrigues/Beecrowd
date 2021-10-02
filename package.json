@@ -1,0 +1,20 @@
+{
+  "name": "projeto-uri",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfrodrigues/URI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizfrodrigues/URI/issues"
+  },
+  "homepage": "https://github.com/luizfrodrigues/URI#readme",
+  "description": ""
+}
