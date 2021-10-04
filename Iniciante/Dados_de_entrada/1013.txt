@@ -1,0 +1,11 @@
+Exemplos de Entrada 	Exemplos de Saída
+
+7 14 106
+	
+
+106 eh o maior
+
+217 14 6
+	
+
+217 eh o maior

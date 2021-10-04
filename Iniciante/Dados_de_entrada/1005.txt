@@ -1,0 +1,19 @@
+Exemplos de Entrada 	Exemplos de Saída
+
+5.0
+7.1
+	
+
+MEDIA = 6.43182
+
+0.0
+7.1
+	
+
+MEDIA = 4.84091
+
+10.0
+10.0
+	
+
+MEDIA = 10.00000
