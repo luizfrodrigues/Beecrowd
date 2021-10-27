@@ -1,5 +1,5 @@
-# URI
+# **Beecrowd**
 
-## Repositório para as soluções dos problemas propostos na plataforma URI:
+## Repositório para as soluções dos problemas propostos na plataforma **Beecrowd**:
 
-https://www.urionlinejudge.com.br/judge/
+https://www.beecrowd.com.br/
