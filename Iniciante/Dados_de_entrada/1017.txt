@@ -1,0 +1,19 @@
+Exemplo de Entrada 	Exemplo de Saída
+
+10
+85
+	
+
+70.833
+
+2
+92
+	
+
+15.333
+
+22
+67
+	
+
+122.833
